@@ -1,0 +1,18 @@
+# Project exclude paths
+/.idea/
+/.gradle/
+/Simple Chatty Bot/Chatty Bot welcomes you/task/build/
+/Simple Chatty Bot/Chatty Bot welcomes you/task/out/
+/Simple Chatty Bot/Chatty Bot welcomes you/task/out/production/classes
+/Simple Chatty Bot/Guess the age/task/build/
+/Simple Chatty Bot/Guess the age/task/out/
+/Simple Chatty Bot/Guess the age/task/out/production/classes
+/Simple Chatty Bot/Learning numbers/task/build/
+/Simple Chatty Bot/Learning numbers/task/out/
+/Simple Chatty Bot/Learning numbers/task/out/production/classes
+/Simple Chatty Bot/Multiple choice/task/build/
+/Simple Chatty Bot/Multiple choice/task/out/
+/Simple Chatty Bot/Multiple choice/task/out/production/classes
+/Simple Chatty Bot/Print your name/task/build/
+/Simple Chatty Bot/Print your name/task/out/
+/Simple Chatty Bot/Print your name/task/out/production/classes
